@@ -1,0 +1,19 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="OnMainLoad">
+	<ribbon>
+		<tabs>
+			<tab id="tabWinWriter" label="WORK INSTRUCTION WRITER" insertAfterMso="TabHome">
+				<group id="grpOptions" label="Options">
+					<button id="butSettings" label="Settings" size="large" onAction="OpenSettings" imageMso="AccessNavigationOptions" />
+				</group>
+				<group id="grpFileManagement" label="File Management">
+					<button id="butGenerateWordFiles" label="Generate Documents" size="large" onAction="GenerateWordDocument" imageMso="ExportWord"/>
+				</group>
+
+				<group id="grpTools" label="Tools">
+					<button id="butInsertTaskPhoto" label="Insert Task Photo" size="large" onAction="InsertTaskPhoto" imageMso="PictureReflectionGallery" />
+					<button id="butInsertManualReference" label="Insert Manual Reference" size="large" onAction="InsertManualReference" imageMso="FunctionsLookupReferenceInsertGallery" />
+				</group>
+			</tab>
+		</tabs>
+	</ribbon>
+</customUI>
