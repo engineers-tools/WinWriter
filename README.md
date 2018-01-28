@@ -34,4 +34,5 @@ There are many ways to control the configuration and options that apply to each 
 
 A detailed documentation section is currently under construction and this short tutorial will be updated as soon as that becomes available.
 <hr/>
-[![DEMO VIDEO](https://img.youtube.com/vi/SHKsEcAAzoc/0.jpg)](https://www.youtube.com/watch?v=SHKsEcAAzoc) 
+
+[![Demo Video](https://img.youtube.com/vi/SHKsEcAAzoc/0.jpg)](https://www.youtube.com/watch?v=SHKsEcAAzoc)
