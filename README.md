@@ -33,3 +33,5 @@ Generating your first documents is easy with the included templates. Just follow
 There are many ways to control the configuration and options that apply to each of the documents generated.
 
 A detailed documentation section is currently under construction and this short tutorial will be updated as soon as that becomes available.
+<hr/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHKsEcAAzoc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
